@@ -27,6 +27,7 @@ I'm a Computer Science graduate and data enthusiast with hands-on experience in 
 ## 🎓 Education
 
 - Hacktiv8 Data Analytics Bootcamp
+
   Data Visualization (Tableau, Looker Studio), Data Wrangling, SQL (PostgreSQL, BigQuery), NoSQL (MongoDB), Statistical Analysis, And Data Pipeline Development
 
 ---
